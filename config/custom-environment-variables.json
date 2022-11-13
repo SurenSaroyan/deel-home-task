@@ -1,0 +1,9 @@
+{
+  "listen": {
+    "host": "HOST",
+    "port": "PORT"
+  },
+  "app": {
+    "env": "NODE_ENV"
+  }
+}

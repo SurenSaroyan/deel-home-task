@@ -1,0 +1,21 @@
+{
+  "listen": {
+    "host": "localhost",
+    "port": 3001
+  },
+  "app": {
+    "env": "development"
+  },
+  "models": {
+    "Contract": {
+      "status": {
+        "TERMINATED": "terminated",
+        "IN_PROGRESS": "in_progress",
+        "NEW": "new"
+      }
+    }
+  },
+  "deposit": {
+    "percentage": 0.25
+  }
+}
